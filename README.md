@@ -1,6 +1,30 @@
 ![alt text](https://github.com/borinvini/MountainShooter/blob/main/asset/Player1.png?raw=true "Mountain Shooter") Mountain Shooter ![alt text](https://github.com/borinvini/MountainShooter/blob/main/asset/Player1.png?raw=true "Mountain Shooter")
 ===============
  
+# Python Mountain Shooter — Projeto de Estudo
+
+Este repositório contém um jogo 2D desenvolvido em Python e Pygame, originalmente criado pelo professor responsável pelo projeto.
+
+**Autoria original:** Vinicius Borin.
+https://github.com/borinvini/MountainShooter.
+
+**Finalidade deste repositório:** Estudo e aprendizagem de programação Python.
+
+## Objetivo educacional
+
+O projeto está sendo utilizado como material de estudo para compreender conceitos de desenvolvimento de jogos 2D, incluindo:
+
+- Programação orientada a objetos.
+- Organização do código em módulos.
+- Gerenciamento de entidades e fases.
+- Utilização da biblioteca Pygame.
+- Execução e configuração de ambientes Python.
+
+## Créditos
+
+Todos os créditos pela criação original do jogo e de seu código pertencem ao respectivo autor.
+
+Este repositório não representa um projeto de autoria própria. Seu objetivo é exclusivamente o estudo da implementação, respeitando as condições de uso e distribuição estabelecidas pelo autor original.
 
 ### About
 
